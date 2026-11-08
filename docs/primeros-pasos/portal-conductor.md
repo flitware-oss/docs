@@ -37,9 +37,9 @@ Envíele a cada conductor su enlace del portal por el canal que sí lea (muchos 
 
 ## Recomendación del experto
 
-Con 20 años administrando flotas le digo esto: el portal solo sirve si los conductores entran sin fricción. El código por correo es sencillo, pero falla cuando el conductor no revisa ese correo o lo tiene lleno de spam. Verifique con cada conductor cuál correo revisa de verdad y deje registrado ese, no el que alguien anotó hace años en una hoja.
+Según la recomendación de expertos para una buena experiencia: el portal solo sirve si los conductores entran sin fricción. El código por correo es sencillo, pero falla cuando el conductor no revisa ese correo o lo tiene lleno de spam. Verifique con cada conductor cuál correo revisa de verdad y deje registrado ese, no el que alguien anotó hace años en una hoja.
 
-Mi rutina recomendada:
+Rutina recomendada:
 
 - **Al vincular un conductor:** confirme su correo real, envíele el enlace y haga una entrada de prueba con él.
 - **Cada mes:** revise que los conductores activos estén habilitados en el portal; los que salieron deben quedar fuera.

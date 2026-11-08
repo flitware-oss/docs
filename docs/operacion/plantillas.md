@@ -63,7 +63,7 @@ El orden seguro es: ajustar → Previsualizar con un registro real → Validar �
 
 ## Recomendación del experto
 
-En 20 años administrando flotas aprendí que los documentos comen más tiempo del que parece: cartas laborales, certificados de ingreso, paz y salvos. Mi consejo: **dedique una tarde a dejar una plantilla impecable por cada documento que firma cada mes**, con sus variables probadas en al menos tres registros distintos (uno completo, uno con datos parciales y uno nuevo). A partir de ahí, cada solicitud se resuelve en dos clics: seleccionar registro, generar vista previa, descargar. Y nombre sus campos con lógica (header_, signature_) como en el ejemplo: dentro de un año, cuando necesite ajustar la carta, lo agradecerá.
+Según la recomendación de expertos para una buena experiencia: los documentos consumen más tiempo del que parece: cartas laborales, certificados de ingreso, paz y salvos. **Dedique una tarde a dejar una plantilla impecable por cada documento que firma cada mes**, con sus variables probadas en al menos tres registros distintos (uno completo, uno con datos parciales y uno nuevo). A partir de ahí, cada solicitud se resuelve en dos clics: seleccionar registro, generar vista previa, descargar. Y nombre sus campos con lógica (header_, signature_) como en el ejemplo: dentro de un año, cuando necesite ajustar la carta, lo agradecerá.
 
 ## Errores comunes
 

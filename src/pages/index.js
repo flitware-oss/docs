@@ -5,70 +5,30 @@ import Layout from '@theme/Layout';
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
 
-const GUIDES = [
+const SECTIONS = [
   {
-    to: '/docs/cuenta/perfil',
-    title: 'Mi perfil',
-    text: 'Tus datos, tu correo de acceso y la actividad reciente de tu cuenta.',
-  },
-  {
-    to: '/docs/cuenta/usuarios',
-    title: 'Usuarios',
-    text: 'Crea y administra las cuentas de tu equipo: roles, activación y accesos.',
-  },
-  {
-    to: '/docs/cuenta/seguridad',
-    title: 'Seguridad',
-    text: 'Contraseña, doble factor (2FA) y control de sesiones activas.',
-  },
-  {
-    to: '/docs/cuenta/tenant',
-    title: 'Datos de la empresa',
-    text: 'Razón social, zona horaria, correos de alerta y país de facturación.',
-  },
-  {
-    to: '/docs/cuenta/campos-personalizados',
-    title: 'Campos personalizados',
-    text: 'Agrega los datos propios de tu operación a cada módulo.',
-  },
-  {
-    to: '/docs/cuenta/facturacion',
-    title: 'Facturación',
-    text: 'Tu plan, suscripción, facturas y consumo de cada cupo.',
-  },
-];
-
-function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
-  return (
-    <header className={clsx('hero hero--flitware', styles.heroBanner)}>
-      <div className="container">
-        <Heading as="h1" className="hero__title">
-          Guía de usuario de Flitware
-        </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/cuenta/perfil">
-            Empezar la guía
-          </Link>
-        </div>
-      </div>
-    </header>
-  );
-}
-
-const MORE_GUIDES = [
-  {
-    heading: 'Soporte',
-    text: 'Pide ayuda y sigue tus solicitudes hasta el cierre.',
+    heading: 'Primeros pasos y extras',
+    text: 'Entrar a Flitware, moverte por la app y conectar herramientas externas.',
     items: [
-      {
-        to: '/docs/soporte/solicitudes',
-        title: 'Solicitudes de soporte',
-        text: 'Crea solicitudes, conversa con soporte y ciérralas al resolver.',
-      },
+      {to: '/docs/primeros-pasos/acceso', title: 'Acceso y registro', text: 'Entrar con correo y clave, código 2FA y crear tu cuenta.'},
+      {to: '/docs/primeros-pasos/inicio', title: 'Inicio', text: 'Tu panel principal al entrar a la aplicación.'},
+      {to: '/docs/primeros-pasos/notificaciones', title: 'Notificaciones', text: 'Avisos importantes de tu operación.'},
+      {to: '/docs/primeros-pasos/busqueda', title: 'Búsqueda', text: 'Encuentra vehículos, personas y registros al instante.'},
+      {to: '/docs/primeros-pasos/marketplace', title: 'Marketplace', text: 'Aplicaciones extra para tu empresa.'},
+      {to: '/docs/primeros-pasos/mcp', title: 'Conexiones de asistentes', text: 'Qué asistentes están conectados a tu empresa.'},
+      {to: '/docs/primeros-pasos/portal-conductor', title: 'Portal del conductor', text: 'Lo que ve tu conductor en su acceso público.'},
+    ],
+  },
+  {
+    heading: 'Configuración y cuenta',
+    text: 'Todo lo necesario para dejar tu cuenta y tu empresa listas para operar.',
+    items: [
+      {to: '/docs/cuenta/perfil', title: 'Mi perfil', text: 'Tus datos, tu correo de acceso y la actividad reciente de tu cuenta.'},
+      {to: '/docs/cuenta/usuarios', title: 'Usuarios', text: 'Crea y administra las cuentas de tu equipo: roles, activación y accesos.'},
+      {to: '/docs/cuenta/seguridad', title: 'Seguridad', text: 'Contraseña, doble factor (2FA) y control de sesiones activas.'},
+      {to: '/docs/cuenta/tenant', title: 'Datos de la empresa', text: 'Razón social, zona horaria, correos de alerta y país de facturación.'},
+      {to: '/docs/cuenta/campos-personalizados', title: 'Campos personalizados', text: 'Agrega los datos propios de tu operación a cada módulo.'},
+      {to: '/docs/cuenta/facturacion', title: 'Facturación', text: 'Tu plan, suscripción, facturas y consumo de cada cupo.'},
     ],
   },
   {
@@ -84,36 +44,39 @@ const MORE_GUIDES = [
     ],
   },
   {
-    heading: 'Primeros pasos y extras',
-    text: 'Entrar a Flitware, moverte por la app y conectar herramientas externas.',
+    heading: 'Soporte',
+    text: 'Pide ayuda y sigue tus solicitudes hasta el cierre.',
     items: [
-      {to: '/docs/primeros-pasos/acceso', title: 'Acceso y registro', text: 'Entrar con correo y clave, código 2FA y crear tu cuenta.'},
-      {to: '/docs/primeros-pasos/inicio', title: 'Inicio', text: 'Tu panel principal al entrar a la aplicación.'},
-      {to: '/docs/primeros-pasos/notificaciones', title: 'Notificaciones', text: 'Avisos importantes de tu operación.'},
-      {to: '/docs/primeros-pasos/busqueda', title: 'Búsqueda', text: 'Encuentra vehículos, personas y registros al instante.'},
-      {to: '/docs/primeros-pasos/marketplace', title: 'Marketplace', text: 'Aplicaciones extra para tu empresa.'},
-      {to: '/docs/primeros-pasos/mcp', title: 'Conexiones de asistentes', text: 'Qué asistentes están conectados a tu empresa.'},
-      {to: '/docs/primeros-pasos/portal-conductor', title: 'Portal del conductor', text: 'Lo que ve tu conductor en su acceso público.'},
+      {to: '/docs/soporte/solicitudes', title: 'Solicitudes de soporte', text: 'Crea solicitudes, conversa con soporte y ciérralas al resolver.'},
     ],
   },
 ];
 
+function HomepageHeader() {
+  const {siteConfig} = useDocusaurusContext();
+  return (
+    <header className={clsx('hero hero--flitware', styles.heroBanner)}>
+      <div className="container">
+        <Heading as="h1" className="hero__title">
+          Guía de usuario de Flitware
+        </Heading>
+        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/primeros-pasos/acceso">
+            Empezar la guía
+          </Link>
+        </div>
+      </div>
+    </header>
+  );
+}
+
 function GuideList() {
   return (
     <main className={clsx('container', styles.guideList)}>
-      <Heading as="h2">Configuración y cuenta</Heading>
-      <p>Todo lo necesario para dejar tu cuenta y tu empresa listas para operar.</p>
-      <ul className={styles.guideItems}>
-        {GUIDES.map((guide) => (
-          <li key={guide.to}>
-            <Link to={guide.to}>
-              <strong>{guide.title}</strong>
-            </Link>
-            <span>{guide.text}</span>
-          </li>
-        ))}
-      </ul>
-      {MORE_GUIDES.map((section) => (
+      {SECTIONS.map((section) => (
         <div key={section.heading}>
           <Heading as="h2">{section.heading}</Heading>
           <p>{section.text}</p>

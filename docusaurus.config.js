@@ -11,7 +11,18 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Flitware Docs',
-  tagline: 'Aprende a operar tu flota paso a paso, con capturas reales de la aplicación.',
+  tagline: 'Aprende a operar tu flota paso a paso.',
+  themes: [
+    [
+      require.resolve('@easyops-cn/docusaurus-search-local'),
+      {
+        hashed: true,
+        language: ['es'],
+        highlightSearchTermsOnTargetPage: true,
+        explicitSearchResultPath: true,
+      },
+    ],
+  ],
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -98,8 +109,8 @@ const config = {
           },
           
           {
-            href: 'https://github.com/flitware-oss/web-app',
-            label: 'GitHub',
+            href: 'https://flitware.com',
+            label: 'Sitio web',
             position: 'right',
           },
         ],
@@ -128,8 +139,20 @@ const config = {
             title: 'Flitware',
             items: [
               {
+                label: 'Sitio web',
+                href: 'https://flitware.com',
+              },
+              {
+                label: 'YouTube',
+                href: 'https://youtube.com/@flitware',
+              },
+              {
                 label: 'GitHub',
-                href: 'https://github.com/flitware-oss/web-app',
+                href: 'https://github.com/flitware-oss',
+              },
+              {
+                label: 'Correo de soporte',
+                href: 'mailto:help@support.flitware.com',
               },
             ],
           },

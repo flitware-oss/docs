@@ -43,9 +43,9 @@ Use un correo corporativo (no personal) para su cuenta. Cuando hay rotación de 
 
 ## Recomendación del experto
 
-Con 20 años administrando flotas le digo esto: revise su **Actividad reciente** cada lunes por la mañana, le toma 30 segundos. Si ve un *Inicio de sesión* que usted no hizo, cambie su contraseña ese mismo día y revise sus sesiones activas en la pestaña **Seguridad**. La mayoría de los problemas de acceso se detectan ahí, no cuando ya es tarde.
+Según la recomendación de expertos para una buena experiencia: revise su **Actividad reciente** cada lunes por la mañana, le toma 30 segundos. Si ve un *Inicio de sesión* que usted no hizo, cambie su contraseña ese mismo día y revise sus sesiones activas en la pestaña **Seguridad**. La mayoría de los problemas de acceso se detectan ahí, no cuando ya es tarde.
 
-Mi rutina recomendada:
+Rutina recomendada:
 
 - **Cada semana:** un vistazo a *Actividad reciente*.
 - **Cada mes:** confirme que su correo sigue vigente y que su rol es el correcto.

@@ -92,7 +92,7 @@ Use esta función a su favor: si el manual de un equipo o un mapa está en inter
 
 ## Recomendación del experto
 
-Con 20 años administrando flotas, mi consejo es este: **trate cada solicitud de soporte como la hoja de vida de un problema**. Una rutina que funciona:
+Según la recomendación de expertos para una buena experiencia: **trate cada solicitud de soporte como la hoja de vida de un problema**. Una rutina que funciona:
 
 - **Antes de escribir:** anote placa del vehículo, fecha y hora del fallo, y qué intentó hacer. Reúna fotos o videos.
 - **Al crear la solicitud:** un problema por solicitud, no mezcle varios temas. Asunto concreto (`GPS sin reporte desde ayer, placa ABC123`) y mensaje con pasos numerados: qué pasó, cuándo, qué intentó.

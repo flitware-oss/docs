@@ -46,9 +46,9 @@ Antes de crear un campo, pregúntese: "¿alguien va a buscar o filtrar por este 
 
 ## Recomendación del experto
 
-En 20 años he visto empresas que piden 15 campos nuevos "por si acaso" y al mes nadie llena ninguno. Mi regla de oro: **empiece con 2 o 3 campos por módulo**, úselos un mes, y solo entonces agregue más.
+Según la recomendación de expertos para una buena experiencia: es común que las empresas pidan 15 campos nuevos "por si acaso" y al mes nadie llene ninguno. La regla de oro: **empiece con 2 o 3 campos por módulo**, úselos un mes, y solo entonces agregue más.
 
-Mi rutina recomendada:
+Rutina recomendada:
 
 - **Antes de crear:** valide con quien diligencia (el auxiliar, el conductor líder). Si el nombre no les suena natural, cámbielo.
 - **Obligatorios con pinzas:** un campo obligatorio detiene un proceso si falta. Para flotas en movimiento, eso puede significar un vehículo parado esperando un dato. Marque obligatorio solo lo crítico (placa interna, vencimientos).

@@ -76,18 +76,18 @@ Solo hágalo si cambió de celular o perdió el acceso a la app autenticadora.
 
 ## Recomendación del experto
 
-En 20 años administrando flotas he visto de todo, y le puedo decir con total seguridad: **active el doble factor hoy mismo**, empezando por las cuentas con rol alto (ROOT, administradores). El ataque más común no es un hacker de película: es un correo robado o una clave adivinada. El 2FA frena eso en seco.
+Según la recomendación de expertos para una buena experiencia: **active el doble factor hoy mismo**, empezando por las cuentas con rol alto (ROOT, administradores). El ataque más común no es un hacker de película: es un correo robado o una clave adivinada. El 2FA frena eso en seco.
 
-Mi rutina recomendada:
+Rutina recomendada:
 
 - **Hoy:** active el 2FA en su cuenta y pida a cada jefe que active el suyo.
 - **Cada semana:** mire sus **Sesiones activas**. Si aparece un dispositivo raro, cierre la sesión y cambie la clave.
 - **Si pierde el celular:** entre desde un equipo de confianza, desactive el TOTP y vuelva a configurarlo en el celular nuevo. No deje la cuenta sin 2FA "mientras tanto".
-- **Cada 3 meses:** cambie su contraseña, aunque nada haya pasado. En transporte el personal rota mucho y las claves circulan más de lo que creemos.
+- **Cada 3 meses:** cambie su contraseña, aunque nada haya pasado. En transporte el personal rota mucho y las claves circulan más de lo que se cree.
 
 ## Errores comunes
 
 - **"El código no sirve".** Casi siempre es la hora del celular: si el reloj está adelantado o atrasado, los códigos no coinciden. Active la hora automática y pruebe con el código más reciente.
 - **Tomar foto al QR y guardarla.** Esa foto es la llave de su cuenta: quien la tenga puede generar sus códigos. Escanee el QR y no lo guarde ni lo comparta.
-- **Desactivar el 2FA "temporalmente" y olvidarlo.** He visto cuentas que quedaron meses sin protección por un "temporal" que nadie retomó. Si lo desactiva, reactívelo el mismo día.
+- **Desactivar el 2FA "temporalmente" y olvidarlo.** Es común encontrar cuentas que quedan meses sin protección por un "temporal" que nadie retoma. Si lo desactiva, reactívelo el mismo día.
 - **Ignorar sesiones desconocidas.** Un equipo que no reconoce no es un error del sistema: es alguien dentro de su cuenta. Ciérrelo y cambie la clave de inmediato.

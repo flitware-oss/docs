@@ -39,9 +39,9 @@ Debajo de los datos verá el bloque **Acceso de asistentes (MCP)**, que permite 
 
 ## Recomendación del experto
 
-Con 20 años en flotas, el error que más caro sale aquí es dejar los **Correos de alerta** vacíos o con un solo correo de una persona que ya salió. Esos correos son su red de seguridad contra multas: avisan antes de que venza un SOAT, una revisión o una licencia.
+Según la recomendación de expertos para una buena experiencia, el error que más caro sale aquí es dejar los **Correos de alerta** vacíos o con un solo correo de una persona que ya salió. Esos correos son su red de seguridad contra multas: avisan antes de que venza un SOAT, una revisión o una licencia.
 
-Mi rutina recomendada:
+Rutina recomendada:
 
 - **Hoy:** ponga mínimo dos correos de alerta: el del responsable operativo y uno genérico del área (tipo *alertas@suempresa.com*) que varias personas lean.
 - **Cada 3 meses:** verifique que esos correos siguen vigentes y que alguien los lee de verdad.

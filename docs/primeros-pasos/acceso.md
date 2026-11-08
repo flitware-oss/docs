@@ -100,9 +100,9 @@ También pueden aparecer avisos sobre el estado de la plataforma de pagos (por e
 
 ## Recomendación del experto
 
-Con 20 años administrando flotas le digo esto: el registro no es un trámite, es la base de todo lo que viene después. Regístrese con el correo corporativo de la empresa, no con el personal de quien hace el trámite; elija el plan según la flota que tendrá en 6 meses, no la de hoy, para no quedarse sin cupo de servicios a mitad de mes; y verifique que el nombre y el documento de facturación queden exactos, porque corregir facturas después cuesta tiempo y llamadas.
+Según la recomendación de expertos para una buena experiencia: el registro no es un trámite, es la base de todo lo que viene después. Regístrese con el correo corporativo de la empresa, no con el personal de quien hace el trámite; elija el plan según la flota que tendrá en 6 meses, no la de hoy, para no quedarse sin cupo de servicios a mitad de mes; y verifique que el nombre y el documento de facturación queden exactos, porque corregir facturas después cuesta tiempo y llamadas.
 
-Mi rutina recomendada:
+Rutina recomendada:
 
 - **Al registrarse:** guarde el correo de la cuenta y el plan elegido donde todo el equipo administrativo los encuentre.
 - **Cada mes:** revise cuántos servicios consumió frente al límite de su plan y ajuste antes de quedarse corto.

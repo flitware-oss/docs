@@ -55,9 +55,9 @@ El bloque **Métricas de uso** muestra, para su empresa, cuánto lleva consumido
 
 ## Recomendación del experto
 
-Después de 20 años, mi consejo es que trate los cupos como el combustible: **no espere a la reserva**. Un cupo lleno en el momento equivocado —quince vehículos nuevos por matricular un viernes por la tarde— detiene la operación hasta que alguien amplía el plan.
+Según la recomendación de expertos para una buena experiencia: trate los cupos como el combustible, **no espere a la reserva**. Un cupo lleno en el momento equivocado —quince vehículos nuevos por matricular un viernes por la tarde— detiene la operación hasta que alguien amplía el plan.
 
-Mi rutina recomendada:
+Rutina recomendada:
 
 - **Cada mes:** revise las **Métricas de uso** junto con su plan de crecimiento. Si un cupo va por más del 80%, gestione la ampliación o la limpieza ese mismo mes.
 - **Antes de crecer:** si va a afiliar vehículos, contratar conductores o cargar documentos masivamente, verifique primero que el cupo alcanza.

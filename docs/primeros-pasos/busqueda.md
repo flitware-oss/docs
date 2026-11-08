@@ -28,9 +28,9 @@ Busque por el dato más exacto que tenga: el código del servicio o la placa com
 
 ## Recomendación del experto
 
-Con 20 años administrando flotas le digo esto: enseñe a todo su equipo a buscar antes de crear. La mitad de los registros duplicados que he visto nacen porque alguien no encontró un vehículo o un servicio y lo volvió a crear. Una búsqueda de 10 segundos evita un duplicado que después cuesta horas limpiar.
+Según la recomendación de expertos para una buena experiencia: enseñe a todo su equipo a buscar antes de crear. La mitad de los registros duplicados nacen porque alguien no encontró un vehículo o un servicio y lo volvió a crear. Una búsqueda de 10 segundos evita un duplicado que después cuesta horas limpiar.
 
-Mi rutina recomendada:
+Rutina recomendada:
 
 - **Antes de crear cualquier registro:** búsquelo primero por su código o placa.
 - **Cada día:** use la búsqueda para saltar a los registros del día en vez de navegar por menús.

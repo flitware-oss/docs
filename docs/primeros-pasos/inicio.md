@@ -39,9 +39,9 @@ Las tarjetas se pueden arrastrar para moverlas de lugar, estirar desde la esquin
 
 ## Recomendación del experto
 
-Con 20 años administrando flotas le digo esto: el tablero vale según lo que usted ponga primero. Deje arriba lo que decide su día —los servicios pendientes y el estado de la flota— y abajo lo de consulta ocasional. Un tablero ordenado por prioridad le ahorra abrir cinco pantallas cada mañana.
+Según la recomendación de expertos para una buena experiencia: el tablero vale según lo que usted ponga primero. Deje arriba lo que decide su día —los servicios pendientes y el estado de la flota— y abajo lo de consulta ocasional. Un tablero ordenado por prioridad le ahorra abrir cinco pantallas cada mañana.
 
-Mi rutina recomendada:
+Rutina recomendada:
 
 - **Cada mañana:** revise *Servicios por estado* del mes actual y *Flota por estado*. Si hay pendientes acumulándose, ese es su primer tema del día.
 - **Cada semana:** compare las barras de *Servicios programados por mes* para ver si el volumen sube o baja, y ajuste conductores y vehículos a tiempo.

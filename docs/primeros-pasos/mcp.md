@@ -45,9 +45,9 @@ Trate las conexiones de asistentes como llaves de sus oficinas: revise cada mes 
 
 ## Recomendación del experto
 
-Con 20 años administrando flotas le digo esto: el riesgo no es usar asistentes, es autorizarlos y olvidarse. Cada conexión activa puede leer o hacer cosas en su operación, así que la revisión periódica no es opcional. Ponga una fecha fija al mes para abrir estas dos pantallas y pregúntese por cada fila: ¿quién pidió esto, para qué, y sigue vigente?
+Según la recomendación de expertos para una buena experiencia: el riesgo no es usar asistentes, es autorizarlos y olvidarse. Cada conexión activa puede leer o hacer cosas en su operación, así que la revisión periódica no es opcional. Ponga una fecha fija al mes para abrir estas dos pantallas y pregúntese por cada fila: ¿quién pidió esto, para qué, y sigue vigente?
 
-Mi rutina recomendada:
+Rutina recomendada:
 
 - **Cada mes:** abra *Conexiones MCP* y verifique que cada conexión activa tenga un responsable y un motivo vigente.
 - **Cada semana:** eche un vistazo a *Aprobaciones MCP* para que ninguna propuesta quede esperando sin decisión.

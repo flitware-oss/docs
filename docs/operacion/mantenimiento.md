@@ -167,7 +167,7 @@ Si un estado no aparece en la lista, no es un error: es el sistema protegiendo e
 
 ## Recomendación del experto
 
-Después de 20 años viendo flotas, el error más caro no es una varada: es no saber cuánto costó ni por qué. Mi consejo: **toda OT nace con flota, prioridad y costo estimado, y muere con resumen de cierre y costo real**. Si su equipo registra materiales y costos el mismo día, en tres meses tendrá el costo por kilómetro por vehículo, y con eso se negocia con talleres, se decide renovar flota y se acaba el "más o menos". El preventivo programado en Planes siempre sale más barato que el correctivo urgente: apunte a que al menos 7 de cada 10 OT sean preventivas.
+Según la recomendación de expertos para una buena experiencia, el error más caro no es una varada: es no saber cuánto costó ni por qué. **Toda OT nace con flota, prioridad y costo estimado, y muere con resumen de cierre y costo real**. Si su equipo registra materiales y costos el mismo día, en tres meses tendrá el costo por kilómetro por vehículo, y con eso se negocia con talleres, se decide renovar flota y se acaba el "más o menos". El preventivo programado en Planes siempre sale más barato que el correctivo urgente: apunte a que al menos 7 de cada 10 OT sean preventivas.
 
 ## Errores comunes
 

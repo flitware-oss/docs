@@ -43,9 +43,9 @@ Guarde los enlaces de instalación y las licencias que reciba por correo en una 
 
 ## Recomendación del experto
 
-Con 20 años administrando flotas le digo esto: instale solo lo que su operación va a usar este trimestre. Cada plugin activo suma opciones, permisos y cosas que mantener; un sistema lleno de plugins que nadie usa es más lento de operar y más difícil de enseñar. Empiece con lo esencial y agregue el resto cuando el equipo lo pida.
+Según la recomendación de expertos para una buena experiencia: instale solo lo que su operación va a usar este trimestre. Cada plugin activo suma opciones, permisos y cosas que mantener; un sistema lleno de plugins que nadie usa es más lento de operar y más difícil de enseñar. Empiece con lo esencial y agregue el resto cuando el equipo lo pida.
 
-Mi rutina recomendada:
+Rutina recomendada:
 
 - **Antes de instalar:** confirme que el plugin corresponde a su plan y que el enlace trae licencia.
 - **Al instalar:** si falla, lea el motivo antes de reintentar a ciegas; la mayoría de los fallos son de licencia, no del sistema.

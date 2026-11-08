@@ -42,9 +42,9 @@ Habilite las notificaciones en el dispositivo que lleva a la operación (normalm
 
 ## Recomendación del experto
 
-Con 20 años administrando flotas le digo esto: la lista de notificaciones es su bandeja de pendientes del sistema. Revísela a diario, abra lo que requiera acción y marque como leído o elimine lo demás. Una lista con avisos viejos sin revisar es igual a no tener avisos: cuando llegue algo urgente, quedará enterrado entre lo viejo.
+Según la recomendación de expertos para una buena experiencia: la lista de notificaciones es su bandeja de pendientes del sistema. Revísela a diario, abra lo que requiera acción y marque como leído o elimine lo demás. Una lista con avisos viejos sin revisar es igual a no tener avisos: cuando llegue algo urgente, quedará enterrado entre lo viejo.
 
-Mi rutina recomendada:
+Rutina recomendada:
 
 - **Cada día:** abra *Mis notificaciones*, atienda lo urgente y deje la lista en cero.
 - **Cada semana:** revise la pestaña *Ajustes* y elimine los dispositivos que ya no usa (celulares viejos, navegadores que cambió).

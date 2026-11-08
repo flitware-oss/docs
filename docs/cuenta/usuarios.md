@@ -81,13 +81,13 @@ La ventana de edición tiene tres pestañas más que le conviene conocer:
 
 ## Recomendación del experto
 
-Después de 20 años viendo empresas de transporte crecer y enredarse, mi consejo es simple: **un usuario por persona, siempre**. Nada de cuentas compartidas como "operaciones@" usadas por tres turnos. Cuando algo sale mal —un documento borrado, un cambio raro—, los **Logs de usuario** solo le sirven si cada persona tiene su propia cuenta.
+Según la recomendación de expertos para una buena experiencia: **un usuario por persona, siempre**. Nada de cuentas compartidas como "operaciones@" usadas por tres turnos. Cuando algo sale mal —un documento borrado, un cambio raro—, los **Logs de usuario** solo le sirven si cada persona tiene su propia cuenta.
 
-Mi rutina recomendada:
+Rutina recomendada:
 
 - **Al contratar:** cree el usuario el primer día, con rol mínimo. Es más fácil dar permisos después que quitar un daño.
 - **Al cambiar de cargo:** actualice el rol ese mismo día.
-- **Al retirar:** desactive la cuenta de inmediato, no la deje "por si acaso". Un ex-empleado con acceso activo es el riesgo más común que he visto.
+- **Al retirar:** desactive la cuenta de inmediato, no la deje "por si acaso". Un ex-empleado con acceso activo es uno de los riesgos más comunes en las empresas.
 - **Cada mes:** revise la lista completa y desactive cuentas sin uso. Además de seguridad, libera lugares del plan.
 
 ## Errores comunes

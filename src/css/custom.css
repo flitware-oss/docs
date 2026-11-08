@@ -1,0 +1,108 @@
+/* Tema Flitware: minimalista blanco/negro, fuente Sora, igual que la app. */
+
+@font-face {
+  font-family: "Sora";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/sora/sora-latin-400-normal.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Sora";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/sora/sora-latin-500-normal.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Sora";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/sora/sora-latin-600-normal.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Sora";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/sora/sora-latin-700-normal.woff2") format("woff2");
+}
+
+:root {
+  --ifm-font-family-base: "Sora", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --ifm-heading-font-weight: 700;
+  --ifm-color-primary: #111111;
+  --ifm-color-primary-dark: #000000;
+  --ifm-color-primary-darker: #000000;
+  --ifm-color-primary-darkest: #000000;
+  --ifm-color-primary-light: #333333;
+  --ifm-color-primary-lighter: #4d4d4d;
+  --ifm-color-primary-lightest: #666666;
+  --ifm-link-color: #0b5fff;
+  --ifm-link-hover-color: #0849cc;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.08);
+  --ifm-navbar-background-color: #000000;
+  --ifm-navbar-link-color: #ffffff;
+  --ifm-navbar-link-hover-color: #e5e7eb;
+  --ifm-footer-background-color: #000000;
+  --ifm-footer-color: #e5e7eb;
+  --ifm-footer-link-color: #e5e7eb;
+  --ifm-footer-title-color: #ffffff;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #ffffff;
+  --ifm-color-primary-dark: #e5e7eb;
+  --ifm-color-primary-darker: #d1d5db;
+  --ifm-color-primary-darkest: #9ca3af;
+  --ifm-color-primary-light: #ffffff;
+  --ifm-color-primary-lighter: #ffffff;
+  --ifm-color-primary-lightest: #ffffff;
+  --ifm-link-color: #7aa5ff;
+  --ifm-link-hover-color: #9dbdff;
+  --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.1);
+  --ifm-background-color: #0b0b0c;
+  --ifm-navbar-background-color: #000000;
+}
+
+/* Botones principales negros como en la app */
+.button--primary {
+  background-color: #000000;
+  border-color: #000000;
+  color: #ffffff;
+}
+
+.button--primary:hover {
+  background-color: #222222;
+  border-color: #222222;
+  color: #ffffff;
+}
+
+[data-theme='dark'] .button--primary {
+  background-color: #ffffff;
+  border-color: #ffffff;
+  color: #000000;
+}
+
+/* Hero de la portada: negro plano, sin gradientes */
+.hero--flitware {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 4rem 0;
+}
+
+.hero--flitware .hero__title,
+.hero--flitware .hero__subtitle {
+  color: #ffffff;
+}
+
+/* Capturas de la documentacion con borde sutil */
+.markdown img {
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 8px;
+}

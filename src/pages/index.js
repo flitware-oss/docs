@@ -89,6 +89,19 @@ const MORE_GUIDES = [
       {to: '/docs/fase3/plantillas', title: 'Plantillas', text: 'Genera documentos automáticos desde plantillas.'},
     ],
   },
+  {
+    heading: 'Primeros pasos y extras',
+    text: 'Entrar a Flitware, moverte por la app y conectar herramientas externas.',
+    items: [
+      {to: '/docs/fase4/acceso', title: 'Acceso y registro', text: 'Entrar con correo y clave, código 2FA y crear tu cuenta.'},
+      {to: '/docs/fase4/inicio', title: 'Inicio', text: 'Tu panel principal al entrar a la aplicación.'},
+      {to: '/docs/fase4/notificaciones', title: 'Notificaciones', text: 'Avisos importantes de tu operación.'},
+      {to: '/docs/fase4/busqueda', title: 'Búsqueda', text: 'Encuentra vehículos, personas y registros al instante.'},
+      {to: '/docs/fase4/marketplace', title: 'Marketplace', text: 'Aplicaciones extra para tu empresa.'},
+      {to: '/docs/fase4/mcp', title: 'Conexiones de asistentes', text: 'Qué asistentes están conectados a tu empresa.'},
+      {to: '/docs/fase4/portal-conductor', title: 'Portal del conductor', text: 'Lo que ve tu conductor en su acceso público.'},
+    ],
+  },
 ];
 
 function GuideList() {

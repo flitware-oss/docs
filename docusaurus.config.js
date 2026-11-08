@@ -83,7 +83,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'Flitware',
+        title: '',
         logo: {
           alt: 'Flitware',
           src: 'img/flitware-logo-white.svg',
@@ -112,15 +112,15 @@ const config = {
             items: [
               {
                 label: 'Mi perfil',
-                to: '/docs/fase1/perfil',
+                to: '/docs/cuenta/perfil',
               },
               {
                 label: 'Seguridad',
-                to: '/docs/fase1/seguridad',
+                to: '/docs/cuenta/seguridad',
               },
               {
                 label: 'Facturación',
-                to: '/docs/fase1/facturacion',
+                to: '/docs/cuenta/facturacion',
               },
             ],
           },

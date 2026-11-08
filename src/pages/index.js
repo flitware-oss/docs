@@ -7,32 +7,32 @@ import styles from './index.module.css';
 
 const GUIDES = [
   {
-    to: '/docs/fase1/perfil',
+    to: '/docs/cuenta/perfil',
     title: 'Mi perfil',
     text: 'Tus datos, tu correo de acceso y la actividad reciente de tu cuenta.',
   },
   {
-    to: '/docs/fase1/usuarios',
+    to: '/docs/cuenta/usuarios',
     title: 'Usuarios',
     text: 'Crea y administra las cuentas de tu equipo: roles, activación y accesos.',
   },
   {
-    to: '/docs/fase1/seguridad',
+    to: '/docs/cuenta/seguridad',
     title: 'Seguridad',
     text: 'Contraseña, doble factor (2FA) y control de sesiones activas.',
   },
   {
-    to: '/docs/fase1/tenant',
+    to: '/docs/cuenta/tenant',
     title: 'Datos de la empresa',
     text: 'Razón social, zona horaria, correos de alerta y país de facturación.',
   },
   {
-    to: '/docs/fase1/campos-personalizados',
+    to: '/docs/cuenta/campos-personalizados',
     title: 'Campos personalizados',
     text: 'Agrega los datos propios de tu operación a cada módulo.',
   },
   {
-    to: '/docs/fase1/facturacion',
+    to: '/docs/cuenta/facturacion',
     title: 'Facturación',
     text: 'Tu plan, suscripción, facturas y consumo de cada cupo.',
   },
@@ -43,12 +43,6 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--flitware', styles.heroBanner)}>
       <div className="container">
-        <img
-          className={styles.heroLogo}
-          src="img/flitware-logo-white.svg"
-          alt="Flitware"
-          width="220"
-        />
         <Heading as="h1" className="hero__title">
           Guía de usuario de Flitware
         </Heading>
@@ -56,7 +50,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/fase1/perfil">
+            to="/docs/cuenta/perfil">
             Empezar la guía
           </Link>
         </div>
@@ -71,7 +65,7 @@ const MORE_GUIDES = [
     text: 'Pide ayuda y sigue tus solicitudes hasta el cierre.',
     items: [
       {
-        to: '/docs/fase2/soporte',
+        to: '/docs/soporte/solicitudes',
         title: 'Solicitudes de soporte',
         text: 'Crea solicitudes, conversa con soporte y ciérralas al resolver.',
       },
@@ -81,25 +75,25 @@ const MORE_GUIDES = [
     heading: 'Módulos de operación',
     text: 'El día a día de tu flota: vehículos, conductores, documentos, servicios y mantenimiento.',
     items: [
-      {to: '/docs/fase3/flotas', title: 'Flotas', text: 'Registra y administra los vehículos de tu empresa.'},
-      {to: '/docs/fase3/conductores', title: 'Conductores', text: 'Registra conductores, licencias y estados.'},
-      {to: '/docs/fase3/documentos', title: 'Documentos', text: 'Guarda y controla vencimientos de documentos.'},
-      {to: '/docs/fase3/servicios', title: 'Servicios', text: 'Programa viajes, agenda y contactos en el calendario.'},
-      {to: '/docs/fase3/mantenimiento', title: 'Mantenimiento', text: 'Planes, órdenes de trabajo e indicadores.'},
-      {to: '/docs/fase3/plantillas', title: 'Plantillas', text: 'Genera documentos automáticos desde plantillas.'},
+      {to: '/docs/operacion/flotas', title: 'Flotas', text: 'Registra y administra los vehículos de tu empresa.'},
+      {to: '/docs/operacion/conductores', title: 'Conductores', text: 'Registra conductores, licencias y estados.'},
+      {to: '/docs/operacion/documentos', title: 'Documentos', text: 'Guarda y controla vencimientos de documentos.'},
+      {to: '/docs/operacion/servicios', title: 'Servicios', text: 'Programa viajes, agenda y contactos en el calendario.'},
+      {to: '/docs/operacion/mantenimiento', title: 'Mantenimiento', text: 'Planes, órdenes de trabajo e indicadores.'},
+      {to: '/docs/operacion/plantillas', title: 'Plantillas', text: 'Genera documentos automáticos desde plantillas.'},
     ],
   },
   {
     heading: 'Primeros pasos y extras',
     text: 'Entrar a Flitware, moverte por la app y conectar herramientas externas.',
     items: [
-      {to: '/docs/fase4/acceso', title: 'Acceso y registro', text: 'Entrar con correo y clave, código 2FA y crear tu cuenta.'},
-      {to: '/docs/fase4/inicio', title: 'Inicio', text: 'Tu panel principal al entrar a la aplicación.'},
-      {to: '/docs/fase4/notificaciones', title: 'Notificaciones', text: 'Avisos importantes de tu operación.'},
-      {to: '/docs/fase4/busqueda', title: 'Búsqueda', text: 'Encuentra vehículos, personas y registros al instante.'},
-      {to: '/docs/fase4/marketplace', title: 'Marketplace', text: 'Aplicaciones extra para tu empresa.'},
-      {to: '/docs/fase4/mcp', title: 'Conexiones de asistentes', text: 'Qué asistentes están conectados a tu empresa.'},
-      {to: '/docs/fase4/portal-conductor', title: 'Portal del conductor', text: 'Lo que ve tu conductor en su acceso público.'},
+      {to: '/docs/primeros-pasos/acceso', title: 'Acceso y registro', text: 'Entrar con correo y clave, código 2FA y crear tu cuenta.'},
+      {to: '/docs/primeros-pasos/inicio', title: 'Inicio', text: 'Tu panel principal al entrar a la aplicación.'},
+      {to: '/docs/primeros-pasos/notificaciones', title: 'Notificaciones', text: 'Avisos importantes de tu operación.'},
+      {to: '/docs/primeros-pasos/busqueda', title: 'Búsqueda', text: 'Encuentra vehículos, personas y registros al instante.'},
+      {to: '/docs/primeros-pasos/marketplace', title: 'Marketplace', text: 'Aplicaciones extra para tu empresa.'},
+      {to: '/docs/primeros-pasos/mcp', title: 'Conexiones de asistentes', text: 'Qué asistentes están conectados a tu empresa.'},
+      {to: '/docs/primeros-pasos/portal-conductor', title: 'Portal del conductor', text: 'Lo que ve tu conductor en su acceso público.'},
     ],
   },
 ];

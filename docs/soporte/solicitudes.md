@@ -1,9 +1,9 @@
 ---
-title: Soporte
+title: Solicitudes de soporte
 sidebar_position: 1
 ---
 
-# Soporte: pida ayuda y resuelva más rápido
+# Solicitudes de soporte: pida ayuda y resuelva más rápido
 
 El módulo **Soporte** es donde usted crea solicitudes de ayuda, conversa con el equipo de Flitware y hace seguimiento hasta que el problema queda resuelto. Cada solicitud tiene una referencia (por ejemplo **#156**) que sirve para ubicarla en segundos.
 

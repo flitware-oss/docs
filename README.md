@@ -22,11 +22,12 @@ Abrir en el navegador: http://localhost:3123
 
 ## Publicar (GitHub Pages)
 
-Sitio público: https://flitware-oss.github.io/docs/ (requiere activar Pages
-una vez: Settings → Pages → Source: **GitHub Actions**).
+Sitio público: https://docs.flitware.com/ (requiere activar Pages una vez:
+Settings → Pages → Source: **GitHub Actions**, Custom domain
+`docs.flitware.com`).
 
 El workflow `.github/workflows/deploy.yml` publica automáticamente en cada
-push a `main`.
+push a `main`. El archivo `static/CNAME` preserva el dominio en cada deploy.
 
 ## Regla
 

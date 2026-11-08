@@ -14,10 +14,10 @@ Abrir en el navegador: http://localhost:3123
 
 ## Estructura
 
-- `docs/fase1/` — Configuración y cuenta (perfil, usuarios, seguridad, tenant, campos, facturación)
-- `docs/fase2/` — Soporte
-- `docs/fase3/` — Módulos de operación (flotas, conductores, documentos, servicios, mantenimiento, plantillas)
-- `docs/fase4/` — Transversal (acceso, inicio, notificaciones, búsqueda, marketplace, MCP, portal conductor)
+- `docs/cuenta/` — Configuración y cuenta (perfil, usuarios, seguridad, tenant, campos, facturación)
+- `docs/soporte/` — Solicitudes de soporte
+- `docs/operacion/` — Módulos de operación (flotas, conductores, documentos, servicios, mantenimiento, plantillas)
+- `docs/primeros-pasos/` — Acceso, inicio, notificaciones, búsqueda, marketplace, MCP, portal conductor
 - `docs/shots/` — Capturas reales (español, 1440x900)
 
 ## Publicar (GitHub Pages)

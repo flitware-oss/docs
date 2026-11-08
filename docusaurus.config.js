@@ -58,10 +58,8 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          routeBasePath: 'guia',
+          editUrl: 'https://github.com/flitware-oss/docs/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -123,15 +121,15 @@ const config = {
             items: [
               {
                 label: 'Mi perfil',
-                to: '/docs/cuenta/perfil',
+                to: 'guia/cuenta/perfil',
               },
               {
                 label: 'Seguridad',
-                to: '/docs/cuenta/seguridad',
+                to: 'guia/cuenta/seguridad',
               },
               {
                 label: 'Facturación',
-                to: '/docs/cuenta/facturacion',
+                to: 'guia/cuenta/facturacion',
               },
             ],
           },

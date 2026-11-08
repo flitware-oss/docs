@@ -17,6 +17,7 @@ const SECTIONS = [
       {to: '/docs/primeros-pasos/marketplace', title: 'Marketplace', text: 'Aplicaciones extra para tu empresa.'},
       {to: '/docs/primeros-pasos/mcp', title: 'Conexiones de asistentes', text: 'Qué asistentes están conectados a tu empresa.'},
       {to: '/docs/primeros-pasos/portal-conductor', title: 'Portal del conductor', text: 'Lo que ve tu conductor en su acceso público.'},
+      {to: '/docs/primeros-pasos/portal-contacto', title: 'Portal del contacto', text: 'Lo que ve tu cliente: sus servicios y autogestión.'},
     ],
   },
   {

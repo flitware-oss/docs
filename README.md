@@ -22,9 +22,10 @@ Abrir en el navegador: http://localhost:3123
 
 ## Publicar (GitHub Pages)
 
-Ajustar `url` y `baseUrl` en `docusaurus.config.js` según el repositorio
-remoto (TODO pendiente de definir remoto), luego el workflow
-`.github/workflows/deploy.yml` publica automáticamente a `gh-pages` en cada
+Sitio público: https://flitware-oss.github.io/docs/ (requiere activar Pages
+una vez: Settings → Pages → Source: **GitHub Actions**).
+
+El workflow `.github/workflows/deploy.yml` publica automáticamente en cada
 push a `main`.
 
 ## Regla

@@ -46,7 +46,7 @@ Tome la foto de la tarjeta sobre una mesa, con buena luz y sin dedos encima. Si 
 ### Paso 2 — Datos del propietario
 
 1. Seleccione el **Tipo de documento propietario** (por ejemplo, NIT).
-2. Escriba el **Documento propietario**, el **Propietario**, la **Dirección del propietario**, el **Correo del propietario** y el **Teléfono del propietario**.
+2. Escriba el **Documento propietario**, el **Propietario**, la **Dirección del propietario**, el **Correo del propietario** y el **Teléfono del propietario**. En el teléfono, verifique el indicativo del país (por ejemplo, +57 Colombia; pulse la bandera para cambiarlo) y escriba el número sin espacios ni guiones.
 3. El sistema le recuerda: *"Valida el número de documento del propietario antes de iniciar la consulta del vehículo."*
 4. Pulse **Consultar datos del vehículo** para traer los datos oficiales asociados a la placa y el documento.
 5. Pulse **Siguiente**.
@@ -119,6 +119,12 @@ En la pestaña **Historial** verá:
 - **Historial de lecturas**: tabla con **Fecha de lectura**, **Medidor**, **Lectura**, **Origen** (por ejemplo, Manual) y **Referencia**. Puede filtrar con **Todos los medidores** y buscar con la barra **Buscar...**.
 
 ![Historial de lecturas de odómetro y horómetro](../shots/fase3a/10-fleet-historial-odometro.png)
+
+### Mantenimiento: órdenes y novedades del vehículo
+
+En la pestaña **Mantenimiento** verá las **Órdenes de trabajo** del vehículo (código, título y estado), sus **Novedades** abiertas (título, severidad y estado) y las **Lecturas de medidor**. Pulse el código de una orden o el título de una novedad para abrir su detalle en el módulo de Mantenimiento. Con **Ver mantenimiento completo** irá al listado general.
+
+![Mantenimiento del vehículo: órdenes y novedades](../shots/fase3a/12-fleet-detalle-mantenimiento.png)
 
 :::tip Recomendación del experto
 Pida a cada conductor que reporte el kilometraje al terminar su turno y regístrelo el mismo día. Un historial de lecturas completo es la diferencia entre un mantenimiento planeado y una varada en carretera.

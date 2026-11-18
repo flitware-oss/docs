@@ -79,7 +79,8 @@ Al abrir una OT aparece la ventana **Editar** con pestañas: **General, Tareas, 
 
 1. Entre a la pestaña **Materiales**.
 2. Pulse **Reservar material** para apartar repuestos del almacén (columnas: Almacén, Ítem, Reservado, Consumido, Estado).
-3. Abajo, el bloque **Material emitido a esta orden de trabajo** muestra lo que ya salió del almacén (Emitido, Disponible).
+3. En la columna **Acciones**, el icono de descarga **consume** el material en la OT (descuenta la existencia física) y el de deshacer **libera** el remanente reservado sin tocar el físico.
+4. Abajo, el bloque **Material emitido a esta orden de trabajo** muestra lo que ya salió del almacén (Emitido, Disponible); el icono de subida **devuelve** al almacén lo emitido que no se usó.
 
 ![Pestaña Materiales con reserva y emisión](../shots/fase3c/20c-ot-materiales.png)
 
@@ -138,6 +139,8 @@ Si un estado no aparece en la lista, no es un error: es el sistema protegiendo e
 1. Vaya a **Recursos y abastecimiento > Compras**.
 2. Pulse **Nueva orden de compra**. Recuerde la regla del sistema: una orden es un compromiso auditable con el proveedor, pero **no es inventario ni gasto real hasta registrar una recepción posterior**.
 3. La tabla controla **Orden, Proveedor homologado, Almacén receptor, Total de orden, Estado** y **Acciones**.
+4. Cuando la orden está **Aprobada**, el icono de avión en **Acciones** la marca como **Enviada**; si su empresa exige aprobación, primero aparece el icono de visto para decidir.
+5. Abra la orden (clic en su código) para recibir cada línea: el icono de descarga registra la recepción parcial en el almacén.
 
 ![Órdenes de compra](../shots/fase3c/09-compras.png)
 
